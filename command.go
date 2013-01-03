@@ -23,7 +23,7 @@ type Command struct {
 var Commands = []*Command{
 	{
 		"help",
-		"show this list of commands",
+		"command usage",
 		"[command]",
 		UsageOptions{{"command", "command to show detailed documentation for"}},
 		func(args []string) error {

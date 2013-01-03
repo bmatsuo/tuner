@@ -17,7 +17,7 @@ Commands
 
 The following commands are available in tuner
 
-	help    show this list of commands
+	help    command usage
 	info    current track info
 	mute    mute/unmute playback
 	next    skip to the next track
