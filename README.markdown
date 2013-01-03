@@ -7,4 +7,4 @@
 
     go get -u github.com/bmatsuo/tuner
 
-##[Documentation](godoc.org/github.com/bmatsuo/go-itunes)
+##[Documentation](http://godoc.org/github.com/bmatsuo/tuner)
