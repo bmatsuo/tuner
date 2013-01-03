@@ -9,7 +9,7 @@ It also controls iTunes on remote machines (this method seems pretty unstable).
 
 	tuner -host eppc://10.0.0.34 pause
 
-For help regarding a specific command 
+For help
 
 	tuner help [COMMAND]
 */
