@@ -7,18 +7,6 @@ import (
 	"os/exec"
 )
 
-var CommandHost string
-
-type UsageOptions []struct{ option, desc string }
-
-type Command struct {
-	name    string
-	desc    string
-	usage   string
-	options UsageOptions
-	action  func(args []string) error
-}
-
 type Script []string
 
 func (s Script) lines() []string {
